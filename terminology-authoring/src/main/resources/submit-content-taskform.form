@@ -1,0 +1,39 @@
+
+<form id="239637901">
+<property name="subject" value=""/>
+<property name="name" value="submit-content-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="component_id" type="InputText" id="165341396">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;in_component_id (component_id)quot;"/>
+<property name="inputBinding" value="in_component_id"/>
+<property name="outputBinding" value=""/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="1" name="component_name" type="InputText" id="1349206143">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;in_component_name (component_name)quot;"/>
+<property name="inputBinding" value="in_component_name"/>
+<property name="outputBinding" value=""/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="3" name="submit_list" type="InputText" id="391143428">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;in_submit_list (submit_list)quot;"/>
+<property name="inputBinding" value="in_submit_list"/>
+<property name="outputBinding" value=""/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="2" name="edit_coordinate_promotion" type="InputText" id="394645774">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;in_edit_coordinate (edit_coordinate_promotion)quot;"/>
+<property name="inputBinding" value="in_edit_coordinate"/>
+<property name="outputBinding" value=""/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="in_component_id" name="#9BCAFA" type="basicType" value="java.lang.String" id="component_id"/>
+<dataHolder inputId="in_component_name" name="#FF8881" type="basicType" value="java.lang.String" id="component_name"/>
+<dataHolder inputId="in_edit_coordinate" name="#FF8881" type="basicType" value="java.lang.String" id="edit_coordinate_promotion"/>
+<dataHolder inputId="in_submit_list" name="#000000" type="basicType" value="java.lang.String" id="submit_list"/>
+</form>

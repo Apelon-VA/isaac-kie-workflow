@@ -1,0 +1,63 @@
+
+<form id="1735378924">
+<property name="subject" value=""/>
+<property name="name" value="review_content_1-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="1" name="component_name" type="InputText" id="411134202">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;in_component_name (component_name)quot;"/>
+<property name="inputBinding" value="in_component_name"/>
+<property name="outputBinding" value=""/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="0" name="component_id" type="InputText" id="868398706">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;in_component_id (component_id)quot;"/>
+<property name="inputBinding" value="in_component_id"/>
+<property name="outputBinding" value=""/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="6" name="review_response_1" type="InputText" id="1739733254">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;out_response (review_response_1)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="out_response"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="3" name="editor_comment_1" type="InputText" id="89113146">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;in_editor_comment (editor_comment_1)quot;"/>
+<property name="inputBinding" value="in_editor_comment"/>
+<property name="outputBinding" value=""/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="5" name="review_comment_1" type="InputText" id="1616155630">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;out_comment (review_comment_1)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="out_comment"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="4" name="instructions" type="InputText" id="1340502540">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;in_instructions (instructions)quot;"/>
+<property name="inputBinding" value="in_instructions"/>
+<property name="outputBinding" value=""/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="2" name="edit_coordinate_1" type="InputText" id="1148953888">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;in_edit_coordinate (edit_coordinate_1)quot;"/>
+<property name="inputBinding" value="in_edit_coordinate"/>
+<property name="outputBinding" value=""/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="in_component_id" name="#9BCAFA" type="basicType" value="java.lang.String" id="component_id"/>
+<dataHolder inputId="in_component_name" name="#FF8881" type="basicType" value="java.lang.String" id="component_name"/>
+<dataHolder inputId="in_edit_coordinate" name="#A7E690" type="basicType" value="java.lang.String" id="edit_coordinate_1"/>
+<dataHolder inputId="in_editor_comment" name="#FBB767" type="basicType" value="java.lang.String" id="editor_comment_1"/>
+<dataHolder inputId="in_instructions" name="#BBBBBB" type="basicType" value="java.lang.String" id="instructions"/>
+<dataHolder name="#FF54A7" type="basicType" outId="out_comment" value="java.lang.String" id="review_comment_1"/>
+<dataHolder name="#0000A0" type="basicType" outId="out_response" value="java.lang.String" id="review_response_1"/>
+</form>

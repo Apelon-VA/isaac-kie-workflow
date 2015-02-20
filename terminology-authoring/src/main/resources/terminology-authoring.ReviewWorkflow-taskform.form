@@ -1,0 +1,182 @@
+
+<form id="1159154897">
+<property name="subject" value=""/>
+<property name="name" value="terminology-authoring.ReviewWorkflow-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name=":decorator_0" type="HTMLLabel" id="1616781236">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value=""/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value=""/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;h2 style=&quot;font-style:italic;&quot;&gt;&lt;strong&gt;Starting a Terminology Editing Workflow&lt;/strong&gt;&lt;/h2&gt; quot;quot;dequot;,quot;&lt;h2 style=&quot;font-style:italic;&quot;&gt;&lt;strong&gt;Starting a Terminology Editing Workflow&lt;/strong&gt;&lt;/h2&gt; quot;quot;enquot;,quot;&lt;h2 style=&quot;font-style:italic;&quot;&gt;&lt;strong&gt;Starting a Terminology Editing Workflow&lt;/strong&gt;&lt;/h2&gt; quot;quot;esquot;,quot;&lt;h2 style=&quot;font-style:italic;&quot;&gt;&lt;strong&gt;Starting a Terminology Editing Workflow&lt;/strong&gt;&lt;/h2&gt; quot;quot;frquot;,quot;&lt;h2 style=&quot;font-style:italic;&quot;&gt;&lt;strong&gt;Starting a Terminology Editing Workflow&lt;/strong&gt;&lt;/h2&gt; quot;quot;jaquot;,quot;&lt;h2 style=&quot;font-style:italic;&quot;&gt;&lt;strong&gt;Starting a Terminology Editing Workflow&lt;/strong&gt;&lt;/h2&gt; quot;quot;ptquot;,quot;&lt;h2 style=&quot;font-style:italic;&quot;&gt;&lt;strong&gt;Starting a Terminology Editing Workflow&lt;/strong&gt;&lt;/h2&gt; quot;quot;zhquot;,quot;&lt;h2 style=&quot;font-style:italic;&quot;&gt;&lt;strong&gt;Starting a Terminology Editing Workflow&lt;/strong&gt;&lt;/h2&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="1" name="component_id" type="InputText" id="2010065670">
+<property name="fieldRequired" value="true"/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value=""/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;component_id : Id of the terminology componentquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value=""/>
+<property name="formula" value=""/>
+<property name="rangeFormula" value=""/>
+<property name="pattern" value=""/>
+<property name="styleclass" value=""/>
+<property name="cssStyle" value=""/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="defaultValueFormula" value=""/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="component_id"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="2" name="component_name" type="InputText" id="1258135248">
+<property name="fieldRequired" value="true"/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value=""/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;component_name : Name of the terminology componentquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value=""/>
+<property name="formula" value=""/>
+<property name="rangeFormula" value=""/>
+<property name="pattern" value=""/>
+<property name="styleclass" value=""/>
+<property name="cssStyle" value=""/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="defaultValueFormula" value=""/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="component_name"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="3" name="edit_coordinate_1" type="InputText" id="1425438363">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;edit_coordinate_1 (edit_coordinate_1)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="edit_coordinate_1"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="4" name="edit_coordinate_2" type="InputText" id="1279881005">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;edit_coordinate_2 (edit_coordinate_2)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="edit_coordinate_2"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="5" name="edit_coordinate_adjudicator" type="InputText" id="1272287108">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;edit_coordinate_adjudicator (edit_coordinate_adjudicator)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="edit_coordinate_adjudicator"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="6" name="edit_coordinate_promotion" type="InputText" id="649338590">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;edit_coordinate_promotion (edit_coordinate_promotion)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="edit_coordinate_promotion"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="7" name="editor_comment_1" type="InputText" id="291877380">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;editor_comment_1 (editor_comment_1)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="editor_comment_1"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="8" name="editor_comment_2" type="InputText" id="1995808160">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;editor_comment_2 (editor_comment_2)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="editor_comment_2"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="9" name="instructions" type="InputText" id="1621750315">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;instructions (instructions)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="instructions"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="10" name="review_comment_1" type="InputText" id="913374566">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;review_comment_1 (review_comment_1)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="review_comment_1"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="11" name="review_comment_2" type="InputText" id="753825147">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;review_comment_2 (review_comment_2)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="review_comment_2"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="12" name="review_response_1" type="InputText" id="959836030">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;review_response_1 (review_response_1)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="review_response_1"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="13" name="review_response_2" type="InputText" id="354843706">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;review_response_2 (review_response_2)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="review_response_2"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="14" name="submit_list" type="InputText" id="674798158">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;submit_list (submit_list)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="submit_list"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="15" name="skip_to_review" type="InputText" id="1772791023">
+<property name="fieldRequired" value="false"/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value=""/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;skip_to_reviewquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value=""/>
+<property name="formula" value=""/>
+<property name="rangeFormula" value=""/>
+<property name="pattern" value=""/>
+<property name="styleclass" value=""/>
+<property name="cssStyle" value=""/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="defaultValueFormula" value="false"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="skip_to_review"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="approval_comment" value="java.lang.String" id="approval_comment"/>
+<dataHolder inputId="" name="#A7E690" type="basicType" outId="approval_response" value="java.lang.String" id="approval_response"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="component_id" value="java.lang.String" id="component_id"/>
+<dataHolder inputId="" name="#FF8881" type="basicType" outId="component_name" value="java.lang.String" id="component_name"/>
+<dataHolder inputId="" name="#A7E690" type="basicType" outId="edit_coordinate_1" value="java.lang.String" id="edit_coordinate_1"/>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="edit_coordinate_2" value="java.lang.String" id="edit_coordinate_2"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="edit_coordinate_adjudicator" value="java.lang.String" id="edit_coordinate_adjudicator"/>
+<dataHolder inputId="" name="#FF8881" type="basicType" outId="edit_coordinate_promotion" value="java.lang.String" id="edit_coordinate_promotion"/>
+<dataHolder inputId="" name="#FBB767" type="basicType" outId="editor_comment" value="java.lang.String" id="editor_comment"/>
+<dataHolder inputId="" name="#FBB767" type="basicType" outId="editor_comment_1" value="java.lang.String" id="editor_comment_1"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="editor_comment_2" value="java.lang.String" id="editor_comment_2"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="instructions" value="java.lang.String" id="instructions"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="review_comment" value="java.lang.String" id="review_comment"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="review_comment_1" value="java.lang.String" id="review_comment_1"/>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="review_comment_2" value="java.lang.String" id="review_comment_2"/>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="review_response" value="java.lang.String" id="review_response"/>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="review_response_1" value="java.lang.String" id="review_response_1"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="review_response_2" value="java.lang.String" id="review_response_2"/>
+<dataHolder inputId="" name="#000000" type="basicType" outId="submit_list" value="java.lang.String" id="submit_list"/>
+</form>
